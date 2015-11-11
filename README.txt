@@ -1,0 +1,1 @@
+A simple chat Application in JAVA where a new Chat window is created using SWING, The chat window acts like a server and the console acts as a server(keyboard). 
