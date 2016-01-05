@@ -1,0 +1,12 @@
+/build/
+nbproject/
+manifest.mf
+build.xml
+/ReadCal/build/
+/DivTriNum/build/
+/TriangleNumbers/build/
+/MakPalin/build/
+/ThreePdt/build/
+/DecBin/build/
+/DisPriFact/build/
+/DisPriFact/dist/

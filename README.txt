@@ -1,1 +1,5 @@
-A simple chat Application in JAVA where a new Chat window is created using SWING, The chat window acts like a server and the console acts as a server(keyboard). 
+When all the files are open, 
+1. First start the server by Right click->Run file
+2. On the client file, Right click->run file
+3. Chat!
+4. Change the IP address In the client to make connections across Computers.
